@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre PILOT</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrepilot&label=Profile%20views&color=000000&style=flat" alt="alexandrepilot" /> </p>
 
-- Hi I'm working on [StationDeSki](https://github.com/MaximeLBG/StationDeSki/issues)
+- Hi I'm working on [StationDeSki](https://github.com/MaximeLBG/StationDeSki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
